@@ -119,10 +119,12 @@
 .top{
 	font-size: 18px;
 	padding-top: 129px;
+	margin-left: 60px;
 }
 #bottom{
 	font-size: 18px;
 	padding-top: 154px;
+	margin-left: 60px;
 }
 .page3{
 	width: 1440px;
@@ -163,7 +165,8 @@
 }
 .natG{
 	margin-top: -84px;
-	padding: 70px 20px 20px 20px;
+	margin-left: 184px;
+	padding: 0px 20px 20px 20px;
 	width: 306px;
 	height: 700px;
 	font-size: 18px;
@@ -173,7 +176,7 @@
 }
 .county{
 	margin-top: -84px;
-	padding: 70px 20px 20px 20px;
+	padding: 0px 20px 20px 20px;
 	width: 305px;
 	height: 700px;
 	font-size: 18px;
